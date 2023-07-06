@@ -6,7 +6,7 @@ You can select boot device when you boot,
 You can configure it from menu,
 
 # Installation:
-wget https://github.com/Mag1cpunch/Meteor_BIOS_Open_Computers bios.lua,
+type 'wget https://github.com/Mag1cpunch/Meteor_BIOS_Open_Computers bios.lua',
 Go to file directory,
 Insert the EEPROM you want to flash,
 Type 'flash bios.lua',
